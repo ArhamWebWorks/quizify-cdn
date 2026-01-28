@@ -1,1 +1,321 @@
-var a0_0x5938f4=a0_0x6a70;(function(_0x1c4344,_0x12bec3){var _0x285fcf=a0_0x6a70,_0x502592=_0x1c4344();while(!![]){try{var _0x4ca34a=parseInt(_0x285fcf(0x18c))/0x1+-parseInt(_0x285fcf(0x1b9))/0x2*(parseInt(_0x285fcf(0x19c))/0x3)+-parseInt(_0x285fcf(0x1c4))/0x4*(parseInt(_0x285fcf(0x184))/0x5)+parseInt(_0x285fcf(0x195))/0x6+parseInt(_0x285fcf(0x18f))/0x7*(-parseInt(_0x285fcf(0x1a8))/0x8)+-parseInt(_0x285fcf(0x1ba))/0x9+parseInt(_0x285fcf(0x1db))/0xa*(parseInt(_0x285fcf(0x1df))/0xb);if(_0x4ca34a===_0x12bec3)break;else _0x502592['push'](_0x502592['shift']());}catch(_0x4fd6b7){_0x502592['push'](_0x502592['shift']());}}}(a0_0x22c1,0xd5f12));var origin_popup_URL='https://quizify.arhamcommerce.com',path_name=document[a0_0x5938f4(0x196)][a0_0x5938f4(0x1bb)],current_page='',popupStack=[],renderedPopups={};path_name==='/'?current_page='home':current_page=path_name;var get_site_popup_data=document[a0_0x5938f4(0x1cc)]('.quizify-popup-pages-data');!get_site_popup_data[a0_0x5938f4(0x1aa)]&&console[a0_0x5938f4(0x1d6)](a0_0x5938f4(0x1ca));function a0_0x6a70(_0x25d3bf,_0x594674){var _0x22c1fd=a0_0x22c1();return a0_0x6a70=function(_0x6a7055,_0x507d37){_0x6a7055=_0x6a7055-0x182;var _0xf63817=_0x22c1fd[_0x6a7055];return _0xf63817;},a0_0x6a70(_0x25d3bf,_0x594674);}function a0_0x22c1(){var _0xfa490b=['addEventListener','normal_page','parse','never','readyState','createElement','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22popup_close_btn\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20onclick=\x22closeQuizModal(\x27','\x27,\x20\x27','send','&get_quiz_shortcode=','quiz-popup-inner','30472WJURBp','.quiz_popup_frame_wrap_inner','length','popup_apply_condition','expiry','host_url=','&get_site_store_data=','quiz_iframe_container-','innerHTML','popup_close_btn_wrap','dataset','product','quiz_data','data-popup-pages-data','products','closest','popup_quiz_loader','40978DLphcU','7930458hDgcsp','pathname','data-quiz-store','getElementById','iframe','POST','quiz_popup_hide_','.quiz_popup_frame_wrap','body','&final_page_value=','4976NcUAJn','/popup_check','replace','getItem','quiz_popup_frame_wrap-','style','No\x20shortcodefound\x20in\x20theme.liquid','quiz-popup-inside-','querySelectorAll','home','push','quiz_popup_frame_wrap_inner\x20popup_quiz_loader','forEach','div','any_page','getTime','data-quiz-shortcode','collection','log','open','indexOf','application/x-www-form-urlencoded;\x20charset=UTF-8','className','30540nLBkcm','zIndex','remove','quiz_popup_frame_wrap_inner-','1133liwkYp','popup_quiz_data','removeItem','quiz_popup_body','quiz-popup-wrap','1040wztjXD','responseText','src','shortcode','\x27)\x22></button>\x0a\x20\x20\x20\x20','trim','split','filter','1509079zwcTWY','search','stringify','476iRKZaP','classList','load','appendChild','q_specific_collection_','Creating\x20iframe\x20for\x20page:','2832480svkwMK','location','domain','quiz_iframe_container','add','quiz_popup_frame_wrap','getAttribute','3wRhXLc'];a0_0x22c1=function(){return _0xfa490b;};return a0_0x22c1();}function popup_check_callback(_0x204ea8,_0x2b7160,_0x3ac383){var _0x209bf8=a0_0x5938f4;const _0x4e08f7=origin_popup_URL+_0x209bf8(0x1c5);var _0x20846c=window[_0x209bf8(0x196)]['host'];const _0x1a78c8=new XMLHttpRequest();_0x1a78c8[_0x209bf8(0x19d)](_0x209bf8(0x191),function(){var _0x3b6155=_0x209bf8;if(this[_0x3b6155(0x1a1)]===0x4&&this['status']===0xc8){var _0x4652d4=JSON[_0x3b6155(0x19f)](this[_0x3b6155(0x185)]);if(_0x4652d4[_0x3b6155(0x1ab)]==!![]){var _0x41dda8=_0x4652d4[_0x3b6155(0x1e0)],_0x5ee6e5=_0x4652d4[_0x3b6155(0x1b4)];popup_append_data(_0x41dda8,_0x5ee6e5,_0x204ea8);}else{}}}),_0x1a78c8[_0x209bf8(0x1d7)](_0x209bf8(0x1bf),_0x4e08f7,!![]),_0x1a78c8['setRequestHeader']('Content-Type',_0x209bf8(0x1d9)),_0x1a78c8[_0x209bf8(0x1a5)](_0x209bf8(0x1ad)+_0x20846c+_0x209bf8(0x1c3)+_0x204ea8+_0x209bf8(0x1a6)+_0x3ac383+_0x209bf8(0x1ae)+_0x2b7160);}for(let get_site_popup_data_div of get_site_popup_data){var get_quiz_shortcode=get_site_popup_data_div[a0_0x5938f4(0x19b)](a0_0x5938f4(0x1d4)),get_site_store_data=get_site_popup_data_div['getAttribute'](a0_0x5938f4(0x1bc)),get_site_data_attr=get_site_popup_data_div['getAttribute'](a0_0x5938f4(0x1b5))[a0_0x5938f4(0x18a)](',')[0x0][a0_0x5938f4(0x189)](),check_match_page=![],non_product_collection_page=![],page_type='',replace_popup_url_string='',final_page_value='',check_for_product=get_site_data_attr[a0_0x5938f4(0x1d8)]('q_specific_product'),check_for_collection=get_site_data_attr['indexOf']('q_specific_collection');if(check_for_product>-0x1)page_type=a0_0x5938f4(0x1b3),replace_popup_url_string=get_site_data_attr[a0_0x5938f4(0x1c6)]('q_specific_product_','');else{if(check_for_collection>-0x1)page_type=a0_0x5938f4(0x1d5),replace_popup_url_string=get_site_data_attr[a0_0x5938f4(0x1c6)](a0_0x5938f4(0x193),'');else(get_site_data_attr==a0_0x5938f4(0x1cd)||get_site_data_attr==a0_0x5938f4(0x18d)||get_site_data_attr==a0_0x5938f4(0x1b6)||get_site_data_attr=='collections')&&(page_type=a0_0x5938f4(0x19e),replace_popup_url_string=get_site_data_attr);}get_site_data_attr===a0_0x5938f4(0x1d2)?(check_match_page=!![],replace_popup_url_string=a0_0x5938f4(0x1d2)):check_match_page=current_page[a0_0x5938f4(0x1d8)](replace_popup_url_string)!==-0x1;check_match_page===!![]&&(page_type===a0_0x5938f4(0x1d5)||page_type===a0_0x5938f4(0x1b3)?(non_product_collection_page=![],final_page_value=replace_popup_url_string):(non_product_collection_page=!![],final_page_value=replace_popup_url_string));if(get_quiz_shortcode){if(get_site_popup_data_div){if(get_quiz_shortcode&&final_page_value){document[a0_0x5938f4(0x1c2)][a0_0x5938f4(0x190)]['add'](a0_0x5938f4(0x182));var popupKey=get_quiz_shortcode+'|'+current_page;if(renderedPopups[popupKey])continue;renderedPopups[popupKey]=!![],popup_check_callback(final_page_value,get_site_store_data,get_quiz_shortcode);}}}else{document[a0_0x5938f4(0x1c2)]['classList'][a0_0x5938f4(0x199)](a0_0x5938f4(0x182)),popup_check_callback(final_page_value,get_site_store_data,'latest');break;}};function popup_append_data(_0x4187b0,_0x5db33e,_0x1f8cb0){var _0x3cf52b=a0_0x5938f4,_0xabd84a=_0x5db33e[_0x3cf52b(0x187)],_0x2793b8=(_0x4187b0['popup_delay']||0x0)*0x3e8,_0x5970a6=_0x4187b0['popup_frequency'],_0x3f3f37=_0x5970a6=='never'?_0x3cf52b(0x1a0):(_0x5970a6||0x0)*0xea60,_0x28739d='quiz_popup_hide_'+_0xabd84a+'_'+_0x1f8cb0,_0x507f75=getWithExpiry(_0x28739d)?!![]:![];_0x507f75==![]&&_0xabd84a&&setTimeout(function(){popup_function(_0xabd84a,_0x3f3f37,_0x1f8cb0);},_0x2793b8);}function closeQuizModal(_0x3d615d,_0x550d9b,_0x213084){var _0x3c43c0=a0_0x5938f4,_0x99e8c5=document[_0x3c43c0(0x1bd)](_0x3c43c0(0x1cb)+_0x3d615d);if(!_0x99e8c5)return;var _0x36fe25=_0x99e8c5['closest']('.quiz-popup-wrap');if(!_0x36fe25)return;_0x36fe25[_0x3c43c0(0x1dd)](),popupStack=popupStack[_0x3c43c0(0x18b)](function(_0x493d20){return _0x493d20!==_0x36fe25;}),_0x550d9b===_0x3c43c0(0x1a0)?setWithExpiry(_0x3c43c0(0x1c0)+_0x3d615d+'_'+_0x213084,!![],'never'):(_0x550d9b=Number(_0x550d9b),setWithExpiry(_0x3c43c0(0x1c0)+_0x3d615d+'_'+_0x213084,!![],_0x550d9b)),popupStack[_0x3c43c0(0x1aa)]===0x0?document[_0x3c43c0(0x1c2)]['classList'][_0x3c43c0(0x1dd)](_0x3c43c0(0x182)):updatePopupStack();}function popup_function(_0x292640,_0x1c02a5,_0x3e2646){var _0x2223fd=a0_0x5938f4;console[_0x2223fd(0x1d6)](_0x2223fd(0x194),_0x3e2646);var _0x27303f=document[_0x2223fd(0x1a2)]('div');_0x27303f[_0x2223fd(0x1da)]=_0x2223fd(0x183),_0x27303f[_0x2223fd(0x1b2)][_0x2223fd(0x187)]=_0x292640,document[_0x2223fd(0x1c2)][_0x2223fd(0x192)](_0x27303f),popupStack[_0x2223fd(0x1ce)](_0x27303f),updatePopupStack();var _0x1bfbfa=document[_0x2223fd(0x1a2)](_0x2223fd(0x1d1));_0x1bfbfa['className']=_0x2223fd(0x1a7),_0x27303f[_0x2223fd(0x192)](_0x1bfbfa);var _0x4f868b=document[_0x2223fd(0x1a2)](_0x2223fd(0x1d1));_0x4f868b['id']=_0x2223fd(0x1cb)+_0x292640,_0x4f868b['className']='quiz-popup-inside\x20visible',_0x1bfbfa[_0x2223fd(0x192)](_0x4f868b);var _0x40282c=document[_0x2223fd(0x1a2)](_0x2223fd(0x1d1));_0x40282c['id']=_0x2223fd(0x1c8)+_0x292640,_0x40282c[_0x2223fd(0x1da)]=_0x2223fd(0x19a),_0x4f868b['appendChild'](_0x40282c);var _0x49a460=document[_0x2223fd(0x1a2)](_0x2223fd(0x1d1));_0x49a460['id']=_0x2223fd(0x1de)+_0x292640,_0x49a460[_0x2223fd(0x1da)]=_0x2223fd(0x1cf),_0x40282c[_0x2223fd(0x192)](_0x49a460);var _0x406da7=document['createElement']('div');_0x406da7['id']=_0x2223fd(0x1af)+_0x292640,_0x406da7[_0x2223fd(0x1da)]=_0x2223fd(0x198),_0x40282c[_0x2223fd(0x192)](_0x406da7);var _0x1c7db3=document[_0x2223fd(0x1a2)](_0x2223fd(0x1be));_0x1c7db3['id']='popup_iframe-'+_0x292640,_0x1c7db3['onload']=function(){var _0xb60764=_0x2223fd;_0x49a460[_0xb60764(0x190)]['remove'](_0xb60764(0x1b8));},_0x1c7db3[_0x2223fd(0x1b2)][_0x2223fd(0x197)]=window['location']['host'],_0x1c7db3[_0x2223fd(0x1da)]='popup_iframe',_0x1c7db3[_0x2223fd(0x186)]=origin_popup_URL+'/quiz/'+_0x292640,_0x406da7[_0x2223fd(0x192)](_0x1c7db3);var _0x50ec90=document[_0x2223fd(0x1a2)](_0x2223fd(0x1d1));_0x50ec90[_0x2223fd(0x1da)]=_0x2223fd(0x1b1),_0x50ec90[_0x2223fd(0x1b0)]=_0x2223fd(0x1a3)+_0x292640+_0x2223fd(0x1a4)+_0x1c02a5+_0x2223fd(0x1a4)+_0x3e2646+_0x2223fd(0x188),_0x406da7[_0x2223fd(0x192)](_0x50ec90);}function quizFameLoad(_0x4d602d){var _0x4e9327=a0_0x5938f4,_0x57962c=_0x4d602d[_0x4e9327(0x1b7)](_0x4e9327(0x1c1));if(!_0x57962c)return;var _0x3d9162=_0x57962c['querySelector'](_0x4e9327(0x1a9));_0x3d9162&&_0x3d9162[_0x4e9327(0x190)][_0x4e9327(0x1dd)]('popup_quiz_loader');}function setWithExpiry(_0x2ce8c2,_0xd09508,_0x35567b){var _0x246834=a0_0x5938f4;const _0x58185d=new Date(),_0x5e85c3={'value':_0xd09508,'expiry':_0x35567b===_0x246834(0x1a0)?_0x246834(0x1a0):_0x58185d[_0x246834(0x1d3)]()+_0x35567b};localStorage['setItem'](_0x2ce8c2,JSON[_0x246834(0x18e)](_0x5e85c3));}function getWithExpiry(_0x64ca5){var _0x2e6978=a0_0x5938f4;const _0x45a1fe=localStorage[_0x2e6978(0x1c7)](_0x64ca5);if(!_0x45a1fe)return null;const _0x3b1532=JSON[_0x2e6978(0x19f)](_0x45a1fe);if(_0x3b1532[_0x2e6978(0x1ac)]===_0x2e6978(0x1a0))return _0x3b1532['value'];const _0x1926d9=new Date();if(_0x1926d9[_0x2e6978(0x1d3)]()>_0x3b1532[_0x2e6978(0x1ac)])return localStorage[_0x2e6978(0x1e1)](_0x64ca5),null;return _0x3b1532['value'];}function updatePopupStack(){var _0x94a44c=a0_0x5938f4;popupStack[_0x94a44c(0x1d0)](function(_0x479207,_0x5ac8de){var _0x6f9be0=_0x94a44c;_0x479207[_0x6f9be0(0x1c9)][_0x6f9be0(0x1dc)]=0x3e8+_0x5ac8de;});}
+/*-------------------------Start Default Variables----------------------*/
+var origin_popup_URL = "https://quizify-dev.arhamcommerce.com";
+
+var path_name = document.location.pathname;
+var current_page = '';
+var popupStack = [];
+
+// Track rendered popups (quiz + page)
+var renderedPopups = {};
+
+if(path_name === "/"){
+    current_page = 'home';
+}
+else{
+    current_page = path_name;
+}
+
+var get_site_popup_data = document.querySelectorAll(".quizify-popup-pages-data");
+if (!get_site_popup_data.length) {
+    console.log("No shortcodefound in theme.liquid");
+}
+// console.log("get_site_popup_data--",get_site_popup_data);
+
+/*-------------------------End Default Variables----------------------*/
+
+/*--------------------------Start Popup Check ajax call------------------------*/
+function popup_check_callback(final_page_value,get_site_store_data,get_quiz_shortcode){
+
+    const ajax_call_url = origin_popup_URL+"/popup_check";
+    var host_url = window.location.host;
+    const popup_check_request = new XMLHttpRequest();
+
+    popup_check_request.addEventListener('load', function () {
+        if (this.readyState === 4 && this.status === 200) {
+            var responseJson = JSON.parse(this.responseText);
+
+            if(responseJson.popup_apply_condition == true){
+                var popup_quiz_data = responseJson.popup_quiz_data;
+                var quiz_data = responseJson.quiz_data;
+                // console.log('popup_quiz_data---',popup_quiz_data);
+
+                popup_append_data(popup_quiz_data,quiz_data,final_page_value);
+            }
+            else{
+                // console.log("CONDITION FALSE 2");
+            }
+        }
+    });
+
+    popup_check_request.open('POST', ajax_call_url, true);
+    popup_check_request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+    popup_check_request.send("host_url=" + host_url + "&final_page_value=" + final_page_value + "&get_quiz_shortcode=" + get_quiz_shortcode + "&get_site_store_data=" + get_site_store_data);
+
+}
+/*--------------------------End Popup Check ajax call------------------------*/
+
+/*-------------------------Start Check For Popup Close LocalStorage----------------------*/
+
+// var get_popup_local_storage = getWithExpiry('quiz_popup_hide') ? true : false;
+/*-------------------------End Check For Popup Close LocalStorage------------------------*/
+
+
+
+/*-------------------------Start Default Structure Append----------------------*/
+
+// document.body.classList.add("quiz_popup_body");
+// var target = document.querySelector(".quiz_popup_body");
+// var quiz_popup_wrap = document.createElement('div');
+// quiz_popup_wrap.className="quiz-popup-wrap";
+
+// target.appendChild(quiz_popup_wrap);
+
+/*-------------------------End Default Structure Append------------------------*/
+
+
+/*-------------------------Start Get site popup data from div----------------------*/
+
+for (let get_site_popup_data_div of get_site_popup_data){
+
+    var get_quiz_shortcode = get_site_popup_data_div.getAttribute('data-quiz-shortcode');
+    var get_site_store_data = get_site_popup_data_div.getAttribute('data-quiz-store');
+    var get_site_data_attr = get_site_popup_data_div.getAttribute('data-popup-pages-data').split(',')[0].trim();
+
+    // Get quiz attributes
+    var check_match_page = false;
+    var non_product_collection_page = false;
+    var page_type = '';
+    var replace_popup_url_string = '';
+    var final_page_value = '';
+    // var check_for_any_page = false;
+
+    var check_for_product = get_site_data_attr.indexOf("q_specific_product");
+    var check_for_collection = get_site_data_attr.indexOf("q_specific_collection");
+
+    if (check_for_product > -1) {
+        page_type = 'product';
+        replace_popup_url_string = get_site_data_attr.replace('q_specific_product_','');
+    }
+    else if(check_for_collection > -1){
+        page_type = 'collection';
+        replace_popup_url_string = get_site_data_attr.replace('q_specific_collection_','');
+    }
+    else if(get_site_data_attr == 'home'|| get_site_data_attr == 'search' || get_site_data_attr == 'products' || get_site_data_attr == 'collections'){
+        page_type = 'normal_page';
+        replace_popup_url_string = get_site_data_attr;
+    }
+
+    // console.log('IN LOOP replace_popup_url_string=====',replace_popup_url_string);
+
+    //replace_popup_url_string = get_site_data_attr_array[k].replace('data-','');
+
+    if (get_site_data_attr === 'any_page') {
+        check_match_page = true;
+        replace_popup_url_string = 'any_page';
+    } else {
+        check_match_page = current_page.indexOf(replace_popup_url_string) !== -1;
+    }
+    // if(check_match_page === true){
+    //     console.log('IN LOOP-Match-',replace_popup_url_string);
+    // }
+    // else{
+    //     console.log('IN LOOP-Not-Match-',get_site_data_attr_array[k]);
+    // }
+
+    if(check_match_page === true){
+        if(page_type === "collection" || page_type === "product"){
+            non_product_collection_page = false;
+            final_page_value = replace_popup_url_string;
+        }
+        else{
+            non_product_collection_page = true;
+            final_page_value = replace_popup_url_string;
+        }
+
+    }
+
+    if(get_quiz_shortcode){
+        if(get_site_popup_data_div){
+
+            if (get_quiz_shortcode && final_page_value) {
+                document.body.classList.add("quiz_popup_body");
+
+                var popupKey = get_quiz_shortcode + '|' + current_page;
+                if (renderedPopups[popupKey]) continue;
+                renderedPopups[popupKey] = true;
+
+                popup_check_callback(final_page_value, get_site_store_data, get_quiz_shortcode);
+            }
+        }
+    }else{
+        document.body.classList.add("quiz_popup_body");
+        popup_check_callback(final_page_value, get_site_store_data, 'latest');
+        break;
+    }
+
+    /*---------------------------End Popup Structure Data-----------------------------*/
+};
+
+/*---------------------------Start Popup Append Data Call---------------------------*/
+function popup_append_data(popup_quiz_data, quiz_data, final_page_value){
+    var final_quiz_shortcode = quiz_data.shortcode;
+    var popup_delay_millisec = (popup_quiz_data.popup_delay || 0) * 1000;
+    var popup_type = popup_quiz_data.popup_frequency;
+    var quiz_frequency = (popup_type == "never") ? "never" : (popup_type || 0) * 60000; // per-quiz
+    var storageKey = 'quiz_popup_hide_' + final_quiz_shortcode + '_' + final_page_value;
+    var get_popup_local_storage = getWithExpiry(storageKey) ? true : false;
+
+    if(get_popup_local_storage == false && final_quiz_shortcode){
+        setTimeout(function(){
+            popup_function(final_quiz_shortcode, quiz_frequency, final_page_value);
+        }, popup_delay_millisec);
+    }
+}
+/*---------------------------End Popup Append Data Call-----------------------------*/
+
+
+/*---------------------------Start Popup Structure Data-----------------------------*/
+function closeQuizModal(shortcode, quiz_frequency, final_page_value) {
+    // 🔹 Find popup content
+    var popupInside = document.getElementById('quiz-popup-inside-' + shortcode);
+    if (!popupInside) return;
+
+    // 🔹 Find its wrapper
+    var popupWrap = popupInside.closest('.quiz-popup-wrap');
+    if (!popupWrap) return;
+
+    // 🔹 Remove this popup only
+    popupWrap.remove();
+
+    // 🔹 Remove from stack
+    popupStack = popupStack.filter(function(item) {
+        return item !== popupWrap;
+    });
+    // console.log("quiz_frequency:", quiz_frequency);
+    // 🔹 Set localStorage for THIS quiz only
+    if (quiz_frequency === "never") {
+        setWithExpiry('quiz_popup_hide_' + shortcode + '_' + final_page_value, true, "never");
+    } else {
+        quiz_frequency = Number(quiz_frequency);
+        setWithExpiry('quiz_popup_hide_' + shortcode + '_' + final_page_value, true, quiz_frequency);
+    }
+
+    // 🔹 Restore previous popup or cleanup
+    if (popupStack.length === 0) {
+        document.body.classList.remove("quiz_popup_body");
+    } else {
+        updatePopupStack();
+    }
+}
+
+function popup_function(shortcode, quiz_frequency, final_page_value) {
+    console.log("Creating iframe for page:", final_page_value);
+
+    // 🔹 Create wrapper for THIS quiz only
+    var quiz_popup_wrap = document.createElement('div');
+    quiz_popup_wrap.className = "quiz-popup-wrap";
+    quiz_popup_wrap.dataset.shortcode = shortcode;
+    document.body.appendChild(quiz_popup_wrap);
+
+    // 🔹 Push wrapper to stack
+    popupStack.push(quiz_popup_wrap);
+    updatePopupStack();
+
+    var quiz_popup_inner = document.createElement('div');
+    quiz_popup_inner.className = "quiz-popup-inner";
+    quiz_popup_wrap.appendChild(quiz_popup_inner);
+
+    var quiz_popup_inside = document.createElement('div');
+    quiz_popup_inside.id = "quiz-popup-inside-" + shortcode;
+    quiz_popup_inside.className = "quiz-popup-inside visible";
+    quiz_popup_inner.appendChild(quiz_popup_inside);
+
+    var quiz_popup_frame_wrap = document.createElement('div');
+    quiz_popup_frame_wrap.id = "quiz_popup_frame_wrap-" + shortcode;
+    quiz_popup_frame_wrap.className = "quiz_popup_frame_wrap";
+    quiz_popup_inside.appendChild(quiz_popup_frame_wrap);
+
+    var quiz_popup_frame_wrap_inner = document.createElement('div');
+    quiz_popup_frame_wrap_inner.id = "quiz_popup_frame_wrap_inner-" + shortcode;
+    quiz_popup_frame_wrap_inner.className = "quiz_popup_frame_wrap_inner popup_quiz_loader";
+    quiz_popup_frame_wrap.appendChild(quiz_popup_frame_wrap_inner);
+
+    var quiz_iframe_container = document.createElement('div');
+    quiz_iframe_container.id = "quiz_iframe_container-" + shortcode;
+    quiz_iframe_container.className = "quiz_iframe_container";
+    quiz_popup_frame_wrap.appendChild(quiz_iframe_container);
+
+    var iframe = document.createElement('iframe');
+    iframe.id = "popup_iframe-" + shortcode;
+    iframe.onload = function () {
+        quiz_popup_frame_wrap_inner.classList.remove("popup_quiz_loader");
+    };
+    iframe.dataset.domain = window.location.host;
+    iframe.className = "popup_iframe";
+    iframe.src = origin_popup_URL + '/quiz/' + shortcode;
+    // iframe.style.cssText = "border:0; width:100%; height:100%; display:block;";
+    quiz_iframe_container.appendChild(iframe);
+
+    var popup_close_btn_wrap = document.createElement('div');
+    popup_close_btn_wrap.className = "popup_close_btn_wrap";
+    popup_close_btn_wrap.innerHTML = `
+        <button type="button" class="popup_close_btn"
+            onclick="closeQuizModal('${shortcode}', '${quiz_frequency}', '${final_page_value}')"></button>
+    `;
+    quiz_iframe_container.appendChild(popup_close_btn_wrap);
+}
+
+function quizFameLoad(iframe) {
+    var popupWrap = iframe.closest('.quiz_popup_frame_wrap');
+    if (!popupWrap) return;
+
+    var loader = popupWrap.querySelector('.quiz_popup_frame_wrap_inner');
+    if (loader) {
+        loader.classList.remove("popup_quiz_loader");
+    }
+}
+/*---------------------------End Popup Structure Data-----------------------------*/
+
+/*---------------------------Start Popup Get/Set Localstorage Function-----------------------------*/
+function setWithExpiry(key, value, ttl) {
+    const now = new Date();
+
+    const item = {
+        value: value,
+        expiry: ttl === "never" ? "never" : now.getTime() + ttl,
+    };
+
+    localStorage.setItem(key, JSON.stringify(item));
+}
+
+
+function getWithExpiry(key) {
+    const itemStr = localStorage.getItem(key);
+
+    if (!itemStr) {
+        return null;
+    }
+
+    const item = JSON.parse(itemStr);
+
+    // Never expires
+    if (item.expiry === "never") {
+        return item.value;
+    }
+
+    const now = new Date();
+
+    if (now.getTime() > item.expiry) {
+        localStorage.removeItem(key);
+        return null;
+    }
+
+    return item.value;
+}
+
+function updatePopupStack() {
+    popupStack.forEach(function(popup, index) {
+        popup.style.zIndex = 1000 + index;
+    });
+}
+/*---------------------------End Popup Get/Set Localstorage Function-------------------------------*/
